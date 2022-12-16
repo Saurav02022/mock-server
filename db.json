@@ -1,6 +1,6 @@
 {
   "User":{
-       "id":"User",
+       "id":"UserId",
        "isAuth":false    
   },
   "Admin": {
@@ -10,32 +10,27 @@
  "User-Data": [
    {
      "id": 1,
-     "PhoneNumber": 9572365331,
-     "FirstName": "Saurav",
-     "LastName": "Kumar",
-     "Email": "sk729584@gmail.com",
-     "Password": "sk729584"
-   },
-   {
-     "id": 2,
      "PhoneNumber": 7295849251,
      "FirstName": "Gaurav",
      "LastName": "Kumar",
      "Email": "sk729584@gmail.com",
-     "Password": "sk729584"
+     "Password": "sk729584",
+      "CartPage":[],
+ "Wishlist":[],
+ "PaymentDetail":[]
    },
    {
-     "id": 3,
+     "id": 2,
      "PhoneNumber": 7070165718,
      "FirstName": "Garima",
      "LastName": "Kumari",
      "Email": "garimakumarikyp555@gmail.com",
-     "Password": "garima7070"
-   }
- ],
- "CartPage":[],
+     "Password": "garima7070",
+      "CartPage":[],
  "Wishlist":[],
- "PaymentDetail":[],
- "FinalCartPage":[]
+ "PaymentDetail":[]
+   }
+ ]
+
  
 }
